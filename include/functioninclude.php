@@ -18,7 +18,8 @@
         </ul>
     </div>
     <?php
-    include('includelink.php')
+    include('includelink.php');
+    include('includelink.php');
     ?>
 </body>
 </html>
